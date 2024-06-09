@@ -2,7 +2,7 @@
 Type=Application
 Name=UpUp
 Comment=Run an update, upgrade, and autoremove
-Exec=sudo /home/ulrich/PycharmProjects/upup/upup2.py
+Exec=sudo /path/to/file.py
 Icon=utilities-terminal
 Terminal=true
 Categories=Utility;
